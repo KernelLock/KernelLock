@@ -29,11 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KernelLock&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelLock&layout=compact&theme=tokyonight&hide_border=false" alt="Langs" height="190" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KernelLock&theme=tokyonight&hide_border=false" alt="Streak" />
 </p>
 
