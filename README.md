@@ -1,41 +1,46 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FF26&center=true&vCenter=true&width=435&lines=Console.WriteLine(%22Hello+World!%22);+;KernelLock+is+Coding...;Full+Stack+Wizard;Searching+for+Bugs...%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&random=false&width=600&lines=ROOT@KERNELLOCK:~$+Initializing...;Accessing+Full+Stack+Wizardry...;Bypassing+Firewalls...;Searching+for+Bugs...%F0%9F%AA%B2" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=120&section=header&text=WELCOME%20TO%20MY%20STATION&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=150&section=header&text=KERNEL%20LOCK%20STATION&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KernelLock&theme=tokyonight&hide_border=false" alt="KernelLock GitHub Streak" />
-</p>
-
-<h3 align="center">🚀 Skills & Tech Stack:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,tailwind&theme=dark" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KernelLock&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="KernelLock Trophies" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,rust,go,nodejs,php&theme=dark" />
-  </a>
-</p>
+<hr>
+
+<h3 align="center">🛠️ System Core (Tech Stack)</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,linux,vscode,discord&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,tailwind,py,java,cpp,cs,rust,go,nodejs,mysql,mongodb,postgres,docker,linux,git&perline=7&theme=dark" />
   </a>
 </p>
 
+<hr>
+
+<h3 align="center">📈 Neural Network Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KernelLock&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="KernelLock Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KernelLock&theme=tokyonight&bg_color=0d1117&hide_border=true&color=00f2ff" width="100%" />
 </p>
 
-<h3 align="center">👾 My Coding Activity:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KernelLock/KernelLock/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KernelLock&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelLock&layout=compact&theme=radical&hide_border=false" alt="Langs" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KernelLock&theme=tokyonight&hide_border=false" alt="Streak" />
+</p>
+
+<h3 align="center">👾 Current Process: Debugging Reality</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KernelLock/KernelLock/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 <p align="center">
@@ -43,5 +48,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KernelLock&label=PROFILE%20VIEWS&color=00f2ff&style=flat-square" alt="Views" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius: 10px;">
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KernelLock&label=SYSTEM%20ACCESSES&color=00f2ff&style=for-the-badge" alt="Views" />
 </p>
