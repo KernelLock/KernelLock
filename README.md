@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KernelLock&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="KernelLock Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KernelLock&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15" alt="KernelLock Trophies" />
   </a>
 </p>
 
@@ -30,17 +30,28 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KernelLock&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelLock&layout=compact&theme=radical&hide_border=false" alt="Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KernelLock&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelLock&layout=compact&theme=tokyonight&hide_border=false" alt="Langs" height="190" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KernelLock&theme=tokyonight&hide_border=false" alt="Streak" />
 </p>
 
+<hr>
+
 <h3 align="center">👾 Current Process: Debugging Reality</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KernelLock/KernelLock/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/KernelLock/KernelLock/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<h3 align="center">🕹️ SYSTEM OVERRIDE: PLAY MINI-SNAKE</h3>
+<p align="center">
+  <a href="https://playsnake.org/">
+    <img src="https://img.shields.io/badge/PLAY_SNAKE-00f2ff?style=for-the-badge&logo=github-actions&logoColor=black" alt="Play Snake" />
+  </a>
+  <br>
+  <sub>Klikni na dugme iznad da pokreneš terminalsku verziju igre!</sub>
 </p>
 
 <p align="center">
