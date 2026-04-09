@@ -34,19 +34,6 @@
 
 <hr>
 
-<h3 align="center">👾 Current Process: Debugging Reality</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KernelLock/KernelLock/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-<h3 align="center">🕹️ SYSTEM OVERRIDE: PLAY MINI-SNAKE</h3>
-<p align="center">
-  <a href="https://playsnake.org/">
-    <img src="https://img.shields.io/badge/PLAY_SNAKE-00f2ff?style=for-the-badge&logo=github-actions&logoColor=black" alt="Play Snake" />
-  </a>
-  <br>
-  <sub>Klikni na dugme iznad da pokreneš terminalsku verziju igre!</sub>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
